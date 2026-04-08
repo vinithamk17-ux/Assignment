@@ -1,1 +1,2 @@
 Hi from file1.
+this is second line
